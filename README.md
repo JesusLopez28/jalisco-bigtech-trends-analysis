@@ -189,17 +189,13 @@ Este proyecto cumple con los requisitos de la materia **Análisis de Datos**:
 
 ## 👥 Equipo
 
-**Estudiantes CETI Colomos - 7mo Semestre**  
+**Estudiantes CETI Colomos - 7mo Semestre** 
+Pedro Yazael Mercado Ruano - 22110125
+Joshua David Salcedo Monrroy - 22110109
+Josue Bonilla Cardenas - 22110106
+Jesus Alejandro Lopez Rosales - 22110104
+
 **Materia:** Análisis de Datos - 3er Parcial  
-**Profesor:** [Nombre del profesor]
-
-## 📞 Contacto
-
-Para dudas o contribuciones, contactar a través de:
-- Email institucional CETI
-- Issues en este repositorio
-
----
+**Profesora:** XIMENA AQUINO PEREZ
 
 **📅 Última actualización:** Junio 2025  
-**🎯 Próxima entrega:** [Fecha del 3er parcial]
